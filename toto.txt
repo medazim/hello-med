@@ -3,3 +3,4 @@ second adding
 toto
 4th commit to launch build automatically
 5th commit
+6th commit
